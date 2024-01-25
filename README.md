@@ -24,3 +24,4 @@ tell I love to use `this` feature? I don't know what it's called but I love it h
 making a smaller array, until it get's to an array of length one and returns the only item in it. That becomes the vaue it compares to the other item in the 
 array in the parent function, comparing all the way up finding the biggest value and returning that, closing the function and going back to a parent funcion 
 until it finally returns in the original function and gives us the biggest number. 
+
