@@ -16,7 +16,7 @@ function mystery(a) {
 
 I think my notes on my `mysteryCode.js` file is a lot more in depth than what I'll write here but basically this blew my mind wide open. 
 
-![Recursion](recursion.jpg)
+![Recursion](recursion(1).jpg)
 
 This is an example I used to explain recursion with Tyler in lab today (He helped me understand was recursion was) Basically the code finds the largest number 
 in an array. I used a test array literally just called `array` with numbers `[3, 4, 3, 2, 1]` and I wrote what my output was in the `mysteryCode.js` (can you 
