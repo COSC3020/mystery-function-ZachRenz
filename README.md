@@ -25,3 +25,4 @@ making a smaller array, until it get's to an array of length one and returns the
 array in the parent function, comparing all the way up finding the biggest item and returning that, closing the function and going back to a parent funcion 
 until it finally returns in the original function and gives us the biggest item in the list. 
 
+
